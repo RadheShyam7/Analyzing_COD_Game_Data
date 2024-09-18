@@ -99,7 +99,3 @@ To run this project:
 4. Knit the RMarkdown file to produce the analysis in HTML format.
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
